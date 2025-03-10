@@ -1,0 +1,112 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-color: antiquewhite;
+  text-align: center;
+  font-family: cursive;
+}
+
+#item1logo{
+  position: fixed;
+  left: 2px;
+  top: 2px;
+}
+
+#item1logo>img{
+border-radius: 50px;
+}
+
+
+.mainbox1{
+border:2px solid black;
+margin-top: 50px;
+padding: 5px;
+width: 20vw;
+height: fit-content;
+margin-left: 18cm;
+background-color: white;
+display: block;
+justify-content: center;
+/* justify-items: center; */
+align-items: center;
+box-shadow: 10px 10px lightblue;
+}
+
+
+
+#item2natureimage{
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+
+#item3naturecapsule{
+border: 2px solid grey;
+border-radius: 25px;
+float: left;
+margin: 5px;
+padding: 5px;
+width:85px;
+}
+
+#item4lakecapsule{
+  border: 2px solid grey;
+  border-radius: 25px;
+  float: left;
+  margin: 5px;
+  padding: 5px;
+  width:85px;
+}
+
+#item5element{
+border: 2px solid grey;
+border-radius: 5px;
+margin: 5px;
+width:205px;
+font-weight: lighter;
+font-size:small;
+margin-left: 1.4cm;}
+
+
+#item6element{
+ text-align: justify;
+}
+
+
+#item7wikipediapage{
+ border-radius: 25px;
+padding: 5px;
+width: 105px;
+}
+
+a>h3{
+  text-decoration: none;
+  background-color: rgb(188, 188, 206);
+  border-radius: 25px;
+  margin: 5px;
+padding: 15px;
+width: 105px;
+margin-left: 90px;
+}
+
+footer{
+border:2px solid black;
+border-radius: 5px;
+background-color: white;
+padding: 10px;
+margin: 5px;
+position: fixed;
+/* right: 1px; */
+bottom: 0px;
+}
+
+#item8logo{
+  position: fixed;
+  right: 1px;
+  bottom: 0px;
+}
+
+#item8logo>img{
+border-radius: 50px;
+}
